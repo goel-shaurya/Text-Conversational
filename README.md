@@ -1,5 +1,4 @@
-# Topsis-for-Pretained-Models
-Applying topsis to find best Pre-trained Model for Text Conversational
+# Applying topsis to find best Pre-trained Model for Text Conversational
 
 # Methodology-
 Select 5 pretrained models.
